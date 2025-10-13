@@ -1,4 +1,4 @@
-<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/a70ab1b8-03af-4ad5-b426-8b058bc2a643" /><img width="698" height="404" alt="image" src="https://github.com/user-attachments/assets/5f2f5154-8bd4-428f-b49e-681acfddb62f" />Отчет по Теме #4 выполнил:
+>Отчет по Теме #4 выполнил:
 - Губанов Артём Юрьевич
 - ИВТ-23-1
 
