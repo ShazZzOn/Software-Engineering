@@ -181,6 +181,7 @@ john = English()
 greet(john)                                 
 ```
 ### Результат.
+<img width="2559" height="1599" alt="Лаб5" src="https://github.com/user-attachments/assets/d5222707-22fe-4758-8a7e-1fb4dce67773" />
 
 ## Выводы
 1. `class Russian:`: класс для «русского языка»
